@@ -1,0 +1,87 @@
+.pageTitle {
+    margin: 0;
+    line-height: 1.15;
+    font-size: 6rem;
+}
+
+.grid {
+    margin-top: 3rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    max-width: 1000px;
+}
+
+.action {
+    text-align: left;
+    color: dodgerblue;
+}
+
+.note {
+    height: auto;
+    width: auto;
+    padding: 0.2rem 1rem;
+    margin: 0.9rem;
+    background: transparent;
+    box-shadow: 4px 4px 8px 1px gray;
+    border-radius: 12px;
+}
+
+.singleNote {
+    height: auto;
+    width: 600px;
+    padding: 1.5rem 2rem;
+    margin: 1rem;
+    background: transparent;
+    box-shadow: 4px 4px 8px 1px gray;
+    border-radius: 15px;
+}
+
+.createNote {
+    height: auto;
+    width: 600px;
+    padding: 1.5rem 2rem;
+    margin: 1rem;
+    background: transparent;
+    box-shadow: 4px 4px 8px 1px gray;
+    border-radius: 15px;
+}
+
+.container {
+    padding: 0 2rem;
+}
+
+.pageTitle {
+    margin: 0;
+    line-height: 1.15;
+    font-size: 3rem;
+}
+
+/* .note {
+    height: auto;
+    width: 200px;
+    padding: 0.25rem;
+    border-radius: 2px;
+} */
+
+.title {
+    padding: 0.1rem;
+    font-size: 1rem;
+}
+
+.content {
+    font-size: 0.9rem;
+    font-weight: normal;
+}
+
+.created {
+    font-size: 0.7rem;
+    font-weight: lighter;
+    /* background: transparent; */
+}
+
+.action {
+    text-align: left;
+    color: dodgerblue;
+}
