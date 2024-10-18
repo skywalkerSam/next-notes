@@ -38,5 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## [PocketBase](https://pocketbase.io)
 
 ```shell
-.\pocketbase.exe serve
+./pocketbase serve
 ```
